@@ -1,6 +1,6 @@
 {
   "name": "twitter emoji",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "manifest_version": 2,
   "description": "Simple inject of twitter emojis in Chrome",
   "homepage_url": "https://github.com/benjick/chrome-twemoji",
